@@ -64,5 +64,4 @@ What you should learn from this project:
 ---
 
 ## Authors
-* **Unyime Montag** - [unyime-montag](https://github.com/unyime-montag)
-* **Ojo Timilehin Joseph** - [Timex19](https://github.com/Timex19)
+* **Fasil Beyene** - https://github.com/Fastcaserogue19/sorting_algorithms
